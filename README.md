@@ -12,6 +12,7 @@ Original Code Results       |  Refactored Code Results
 ![OriginalResult_2017](https://raw.githubusercontent.com/si1ver1/stock-analysis/master/Resources/originalResult_2017.jpg =300x)  |  ![RefactoredResult_2017](https://raw.githubusercontent.com/si1ver1/stock-analysis/master/Resources/refactoredResult_2017.jpg =300x)|
 ![OriginalResult_2017](https://raw.githubusercontent.com/si1ver1/stock-analysis/master/Resources/originalResult_2018.jpg =300x)  |![RefactoredResult_2017](https://raw.githubusercontent.com/si1ver1/stock-analysis/master/Resources/refactoredResult_2018.jpg =300x)
 
+![OriginalResult_2017](https://raw.githubusercontent.com/si1ver1/stock-analysis/master/Resources/originalResult_2017.jpg =300x)
 
 ### Code Time Run Returned
 Listed below are the results for our different code run times so we can easily verify which code ran quicker. We ran this for both data sets and also ran each one multiple times to verify consistency across the results. In every single instance the refactored code ran much quicker. We we average the results below we can see the original code usually runs in 0.66 seconds and the refactored code in 0.12 seconds or about 18% faster (100*0.12/0.66). This is more notable at longer run times. For example if we had a data set that took our original code 1 hour to complete: at 18% quicker our refactored code would finish it under 51 minutes. 
